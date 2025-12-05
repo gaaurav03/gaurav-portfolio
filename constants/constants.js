@@ -50,14 +50,14 @@ export const navBar = [
 ];
 
 export const info = {
-  heading: "Jayesh Choudhary: Software Engineer",
+  heading: "Jayesh Choudhary: Software Engineer 2",
   mobileHeading: "Jayesh Choudhary",
   description:
     "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
   workExperience: "Work Experience",
   companies: [
     {
-      designation: "Software Engineer",
+      designation: "Software Engineer 2",
       name: "Microsoft",
       timePeriod: "04/2023 - Present",
       workProjects: [
