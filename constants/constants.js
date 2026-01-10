@@ -99,7 +99,7 @@ export const sideBarInfo = {
       icon: GrMail,
     },
     {
-      title: "8329812727",
+      title: "+91 8******727",
       href: "",
       icon: BsFillPhoneFill,
     },
@@ -453,7 +453,7 @@ export const contactDetails = [
   {
     icon: MdCall,
     type: "Mobile",
-    value: "8329812727",
+    value: "+91 8******727",
     href: "",
   },
   {

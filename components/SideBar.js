@@ -26,14 +26,14 @@ const SideBar = () => {
         />
       </ProfileContainer>
       <About>{sideBarInfo.about}</About>
-      <ResumeWrapper
+      {/*<ResumeWrapper
         href="/assets/Jayesh's Resume.pdf"
         target="_blank"
         rel="noopener noreferrer"
       >
         {`Jayesh's Resume`}
         <AiOutlineDownload size={19} />
-      </ResumeWrapper>
+      </ResumeWrapper>*/}
       <hr />
       <ContactDetails>
         {sideBarInfo.contactDetails.map(

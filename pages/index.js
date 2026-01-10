@@ -40,7 +40,7 @@ const Home = () => {
               priority
             />
           </MobileProfile>
-          <span>
+          {/*<span>
             <ResumeWrapper
               href="/assets/Jayesh's Resume.pdf"
               target="_blank"
@@ -49,7 +49,7 @@ const Home = () => {
               {`Jayesh's Resume`}
               <AiOutlineDownload size={19} />
             </ResumeWrapper>
-          </span>
+          </span>*/}
           <WorkExperience>
             <Heading style={{ display: "block" }}>
               {info.workExperience}
