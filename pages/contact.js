@@ -56,7 +56,7 @@ const Contact = () => {
 
   return (
     <div>
-      <TitleDesc title="Contact Jayesh" desc="Here you can contact Jayesh." />
+      <TitleDesc title="Contact Gaurav" desc="Here you can contact gaurav." />
       <ContactContainer>
         <ContactDetails>
           {contactDetails.map(({ icon: Icon, type, value, href }) => {
