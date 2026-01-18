@@ -115,7 +115,7 @@ export const sideBarInfo = {
     },
     {
       title: "Portfolio Website",
-      href: "https://gaurav-portfolio.vercel.app", // Update after deployment
+      href: "https://gaurav-137-portfolio.vercel.app/", // Update after deployment
       icon: BiLinkAlt,
     },
     {
@@ -201,7 +201,7 @@ export const footerData = {
       icon: FaLinkedin,
     },
     {
-      href: "https://gaurav-portfolio.vercel.app", // Update after deployment
+      href: "https://gaurav-137-portfolio.vercel.app/", // Update after deployment
       icon: BiLinkAlt,
     },
     {
