@@ -17,8 +17,8 @@ import { MdCall } from "react-icons/md";
 
 export const accountDetails = {
   account: "Google Account",
-  name: "Jayesh Choudhary",
-  gmail: "jayesh.choudhary2906@gmail.com",
+  name: "Gaurav Gupta",
+  gmail: "gaurav21687@gmail.com",
 };
 
 export const navBar = [
@@ -50,38 +50,38 @@ export const navBar = [
 ];
 
 export const info = {
-  heading: "Jayesh Choudhary: Software Engineer 2",
-  mobileHeading: "Jayesh Choudhary",
+  heading: "Gaurav Gupta: Full Stack Developer",
+  mobileHeading: "Gaurav Gupta",
   description:
-    "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
-  workExperience: "Work Experience",
+    "Passionate Full Stack Developer pursuing B.Tech in Computer Science at VIT with expertise in building scalable web applications using React, Node.js, and cloud technologies. Skilled in developing real-time applications with 300+ DSA problems solved.",
+  workExperience: "Education & Projects",
   companies: [
     {
-      designation: "Software Engineer 2",
-      name: "Microsoft",
-      timePeriod: "04/2023 - Present",
+      designation: "B.Tech Computer Science & Engineering",
+      name: "Vellore Institute of Technology",
+      timePeriod: "2022 - 2026",
       workProjects: [
         {
-          title: "Healthcare & Life Sciences AI Platform :",
+          title: "CGPA: 8.73",
           description:
-            "Contributing to the development of Dragon Copilot, an AI-powered solution designed to support nurses by reducing burnout, improving documentation quality, and enhancing the overall patient experience.",
+            "Currently pursuing B.Tech in Computer Science & Engineering at VIT Bhopal with strong academic performance and active participation in technical clubs and hackathons.",
         },
       ],
     },
     {
-      designation: "Software Engineer",
-      name: "LTIMindtree",
-      timePeriod: "03/2021 - 04/2023",
+      designation: "Key Projects & Experience",
+      name: "Full Stack Development",
+      timePeriod: "2023 - 2026",
       workProjects: [
         {
-          title: "DHRE RealConnect :",
+          title: "Snappy - Real-time Chat Application:",
           description:
-            "Developed a web application for Dubai Holding Real Estate from scratch as a frontend developer, Technologies used : <b>React Js</b>, <b>Redux-thunk</b>, <b>Tailwind CSS</b>, <b>Axios</b>, <b>React-hook-form</b> and <b>Yup</b>.",
+            "Engineered a scalable real-time chat application using <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>Socket.io</b>, supporting 150+ concurrent users with sub-0.5s message delivery. Deployed using <b>Docker</b>, <b>AWS ECS</b>, and configured with <b>Nginx</b> and CI/CD via <b>GitHub Actions</b>.",
         },
         {
-          title: "Informa Pharma Intelligence :",
+          title: "Singitronic - Electronics eCommerce Platform:",
           description:
-            "Responsible for the logical part of frontend development such as API integration, Implementation of new features, Reusable components, and Bug fixes, Technologies used : <b>React Js</b>, <b>Redux-saga</b>, <b>Redux-toolkit</b>, <b>Sass</b>, <b>Material Ui</b>, <b>Axios</b>, <b>Ag-grid-react</b>, <b>Formik</b> and <b>Yup</b>.",
+            "Built a full-stack eCommerce platform using <b>Next.js</b>, <b>React.js</b>, <b>Node.js</b>, and <b>MySQL</b>, delivering support for 100+ product SKUs. Implemented comprehensive admin dashboard for product management, order tracking, and business analytics.",
         },
       ],
     },
@@ -90,37 +90,37 @@ export const info = {
 
 export const sideBarInfo = {
   about:
-    "A Detailed oriented and Committed Engineering Professional with a Bachelor of Engineering in Information Technology. Well-versed in writing code to create systems that are reliable and user-friendly.",
+    "A passionate and detail-oriented Computer Science Engineering student at VIT with expertise in full-stack development. Experienced in building scalable web applications using modern technologies like React, Node.js, MongoDB, and AWS. Strong problem-solving skills with 300+ DSA problems solved and participation in national-level hackathons.",
 
   contactDetails: [
     {
-      title: "jayesh.choudhary2906@gmail.com",
-      href: "mailto:jayesh.choudhary2906@gmail.com",
+      title: "gaurav21687@gmail.com",
+      href: "mailto:gaurav21687@gmail.com",
       icon: GrMail,
     },
     {
-      title: "+91 8******727",
-      href: "",
+      title: "+91 6398496872",
+      href: "tel:+916398496872",
       icon: BsFillPhoneFill,
     },
     {
-      title: "Linkedin Profile",
-      href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+      title: "LinkedIn Profile",
+      href: "https://www.linkedin.com/in/gaurav037/", // Update with your actual LinkedIn
       icon: FaLinkedin,
     },
     {
       title: "Github Profile",
-      href: "https://github.com/jayesh2906",
+      href: "https://github.com/gaaurav03",
       icon: AiFillGithub,
     },
     {
-      title: "Portfolio link",
-      href: "https://jayesh2906.github.io",
+      title: "Portfolio Website",
+      href: "https://gaurav-portfolio.vercel.app", // Update after deployment
       icon: BiLinkAlt,
     },
     {
-      title: "Google Portfolio link",
-      href: "https://google-portfolio.vercel.app/",
+      title: "Resume",
+      href: "/assets/gaurav_gupta_resume.pdf",
       icon: AiFillGoogleCircle,
     },
   ],
@@ -128,111 +128,121 @@ export const sideBarInfo = {
 
 export const accordionData = [
   {
-    question: "What skills does Jayesh have?",
-    answer: `Jayesh is well-versed in Javascript, React Js, Redux, CSS 3, HTML 5, Tailwind, Next Js, React Native, Node Js, Express Js, MongoDb.`,
+    question: "What skills does Gaurav have?",
+    answer: `Gaurav is well-versed in C, C++, JavaScript, Python, SQL, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Docker, AWS (EC2, Lambda, S3), and has strong knowledge of Data Structures & Algorithms with 300+ problems solved.`,
   },
   {
-    question: "What services does Jayesh provide?",
-    answer: `Jayesh provides fully responsive frontend applications with React Js, Full-stack aplications with MERN and Backend services with Node Js.`,
+    question: "What services does Gaurav provide?",
+    answer: `Gaurav provides full-stack web development with MERN stack, real-time applications with Socket.io, eCommerce platforms, RESTful APIs, cloud deployment with AWS and Docker, and scalable system architecture.`,
   },
   {
-    question: "Is Jayesh frontend or backend developer?",
-    answer: `Jayesh is a full stack web developer, Experienced in developing full stack MERN apllications.`,
+    question: "Is Gaurav frontend or backend developer?",
+    answer: `Gaurav is a full-stack developer with expertise in both frontend (React.js, Next.js) and backend (Node.js, Express.js, MongoDB, MySQL) development, along with cloud deployment and DevOps experience.`,
   },
   {
-    question: "How much experience does Jayesh have?",
-    answer: `Jayesh has ${calculateExperience()} of experience in software industry.`,
+    question: "What is Gaurav's educational background?",
+    answer: `Gaurav is pursuing B.Tech in Computer Science & Engineering from Vellore Institute of Technology with a CGPA of 8.73. He completed Class XII with 96% and Class X with 93.4% from Translam Academy International School.`,
   },
 ];
 
 export const projectVideos = [
   {
-    heading: "Mini Laptop Implementation using React Js.",
-    platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
-    image: `/assets/laptopdesign.png`,
-    date: `1-Mar-2022`,
-    link: `https://www.linkedin.com/feed/update/urn:li:ugcPost:6904281486057373696/`,
+    heading: "Snappy - Real-time Chat Application with React & Socket.io",
+    platform: `GitHub`,
+    author: `Gaurav Gupta`,
+    image: `/assets/snappy-preview.png`,
+    date: `Sept-2023`,
+    link: `https://github.com/gaaurav03/Snappy`,
   },
   {
-    heading: "House Design with pure CSS [2022].",
-    platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
-    image: `/assets/housedesign.png`,
-    date: `10-Jan-2022`,
-    link: `https://www.linkedin.com/posts/jayesh-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d`,
+    heading: "Singitronic - Full Stack eCommerce Platform",
+    platform: `GitHub`,
+    author: `Gaurav Gupta`,
+    image: `/assets/singitronic-preview.png`,
+    date: `Dec-2024`,
+    link: `https://github.com/gaaurav03/Singitronic`,
   },
   {
-    heading: "IPL-2022 Web Application using React Js.",
-    platform: `Linkedin.`,
-    author: `Jayesh Choudhary`,
-    image: `/assets/ipl2022.png`,
-    date: `26-Mar-2022`,
-    link: `https://www.linkedin.com/feed/update/urn:li:activity:6913334580070498304/`,
+    heading: "300+ DSA Problems Solved - LeetCode & GeeksforGeeks",
+    platform: `LeetCode`,
+    author: `Gaurav Gupta`,
+    image: `/assets/dsa-badge.png`,
+    date: `Ongoing`,
+    link: `https://leetcode.com/u/gaurav21687/`, // Update with your profile
   },
 ];
 
 export const relatedsearch = [
   {
-    text: "Jayesh's Skills",
+    text: "Gaurav's Skills",
     href: "/skills",
   },
   {
-    text: "Jayesh's Projects",
+    text: "Gaurav's Projects",
     href: "/projects",
   },
   {
-    text: "Contact Jayesh",
+    text: "Contact Gaurav",
     href: "/contact",
   },
   {
-    text: "Jayesh's Location",
+    text: "Gaurav's Location",
     href: "/map",
   },
 ];
 
 export const footerData = {
-  name: "JayeshChoudhary",
+  name: "GauravGupta",
   year: new Date().getFullYear(),
   darkTheme: "Dark theme: ",
   socialLinks: [
     {
-      href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+      href: "https://www.linkedin.com/in/gaurav037/", // Update with actual URL
       icon: FaLinkedin,
     },
     {
-      href: "https://jayesh2906.github.io",
+      href: "https://gaurav-portfolio.vercel.app", // Update after deployment
       icon: BiLinkAlt,
     },
     {
-      href: "https://github.com/jayesh2906",
+      href: "https://github.com/gaaurav03",
       icon: FaGithub,
     },
     {
-      href: "https://www.instagram.com/insta__jc/",
+      href: "https://www.instagram.com/gaurav", // Update if you have Instagram
       icon: FaInstagram,
     },
   ],
 };
 
 export const skillsData = {
-  info: "Jayesh loves to develop innovative web apps using new technologies, He is keen to gain experience, enhance and upgrade his skills, He enjoys building everything from small sites and landing pages to rich interactive web apps. He loves creating visually stunning, unique and responsive web apps.",
+  info: "Gaurav is passionate about building innovative web applications using cutting-edge technologies. With a strong foundation in Data Structures & Algorithms (300+ problems solved) and hands-on experience in full-stack development, he creates scalable, efficient, and user-centric solutions. His expertise spans across frontend frameworks, backend development, cloud deployment, and real-time applications.",
   skills: [
     {
       title: "Frontend Skills",
       description:
-        "JavaScript, React Js, Redux, React Native, Next Js, Html5, CSS3,Tailwind Css, Material Ui, Bootstrap5, Sass and Styled Component.",
+        "React.js, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Responsive Design, Progressive Web Apps.",
     },
     {
       title: "Backend Skills",
       description:
-        "Node Js, Express Js, Mongo Db, Next Js, Postman and Jwt-Authorization.",
+        "Node.js, Express.js, REST APIs, Socket.IO, MongoDB, MySQL, JWT Authentication, API Integration, Database Design.",
+    },
+    {
+      title: "Languages & Core",
+      description:
+        "C, C++, JavaScript, Python, SQL, Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, System Design.",
+    },
+    {
+      title: "Cloud & DevOps",
+      description:
+        "AWS (EC2, Lambda, S3), Docker, Nginx, GitHub Actions, CI/CD, Postman, Git, VS Code, MCP.",
     },
   ],
 
   skillsIcons: [
     {
-      title: "React Js",
+      title: "React.js",
       href: "https://reactjs.org/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
       shadowColor: "#61DAFB",
@@ -244,74 +254,56 @@ export const skillsData = {
       shadowColor: "#F0DB4F",
     },
     {
-      title: "Redux",
-      href: "https://redux.js.org",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
-      shadowColor: "#9B59B6",
-    },
-    {
-      title: "Css 3",
-      href: "https://www.w3schools.com/css/",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-      shadowColor: "#3b82f6",
-    },
-    {
-      title: "Next Js",
+      title: "Next.js",
       href: "https://nextjs.org/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
     },
     {
-      title: "React Native",
-      href: "https://reactnative.dev/",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-      shadowColor: "#61DAFB",
-    },
-    {
-      title: "Html 5",
-      href: "https://www.w3.org/html/",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-      shadowColor: "#f97316",
-    },
-    {
-      title: "Tailwind Css",
-      href: "https://tailwindcss.com/",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
-      shadowColor: "#38bdf8",
-    },
-    {
-      title: "Material Ui",
-      href: "https://mui.com/",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg",
-      shadowColor: "#1C7FB6",
-    },
-    {
-      title: "Bootstrap 5",
-      href: "https://getbootstrap.com",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-      shadowColor: "#7C12F8",
-    },
-    {
-      title: "Sass",
-      href: "https://sass-lang.com",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
-      shadowColor: "#CB6699",
-    },
-    {
-      title: "Node Js",
+      title: "Node.js",
       href: "https://nodejs.org",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
       shadowColor: "#83CD29",
     },
     {
-      title: "Express Js",
+      title: "Express.js",
       href: "https://expressjs.com",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
     },
     {
-      title: "Mongo Db",
+      title: "MongoDB",
       href: "https://www.mongodb.com/",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
       shadowColor: "#75BB69",
+    },
+    {
+      title: "MySQL",
+      href: "https://www.mysql.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      shadowColor: "#4479A1",
+    },
+    {
+      title: "Python",
+      href: "https://www.python.org/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      shadowColor: "#3776AB",
+    },
+    {
+      title: "C++",
+      href: "https://cplusplus.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+      shadowColor: "#00599C",
+    },
+    {
+      title: "Docker",
+      href: "https://www.docker.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      shadowColor: "#2496ED",
+    },
+    {
+      title: "AWS",
+      href: "https://aws.amazon.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg",
+      shadowColor: "#FF9900",
     },
     {
       title: "Git",
@@ -320,16 +312,28 @@ export const skillsData = {
       shadowColor: "#F34F29",
     },
     {
-      title: "TypeScript",
-      href: "https://www.typescriptlang.org/",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-      shadowColor: "#007ACC",
+      title: "HTML5",
+      href: "https://www.w3.org/html/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      shadowColor: "#f97316",
     },
     {
-      title: "Styled Components",
-      href: "https://styled-components.com/",
-      src: "/assets/styledComponents.png",
-      shadowColor: "#CB6699",
+      title: "CSS3",
+      href: "https://www.w3schools.com/css/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      shadowColor: "#3b82f6",
+    },
+    {
+      title: "Tailwind CSS",
+      href: "https://tailwindcss.com/",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+      shadowColor: "#38bdf8",
+    },
+    {
+      title: "Bootstrap",
+      href: "https://getbootstrap.com",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+      shadowColor: "#7C12F8",
     },
     {
       title: "Postman",
@@ -342,110 +346,41 @@ export const skillsData = {
 
 export const projectsData = [
   {
-    title: "Laptop with React Js and Tailwind CSS",
-    image: "/assets/laptopdesign.png",
+    title: "Snappy - Real-time Chat Application",
+    image: "/assets/snappy-preview.png",
     description: [
-      "Designed and developed a laptop with Power on, Sign In with password or finger scanner, Restart, Sleep and Shut down functionality using <b>React JS</b> and <b>Tailwind CSS</b>.",
+      "Engineered a scalable real-time chat application using <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>Socket.io</b>, supporting 150+ concurrent users with sub-0.5s message delivery (200–300ms latency) under heavy load.",
+      "Implemented secure authentication and role-based access control using <b>JWT</b>, protecting REST APIs and WebSocket channels with HTTPS, input validation, token refresh, and session management.",
+      "Containerized and deployed using <b>Docker</b>, <b>AWS ECS</b>, and Netlify, configuring <b>Nginx</b> with SSL/TLS and CI/CD via <b>GitHub Actions</b>, reducing deployment time by 70%.",
+      "Optimized socket reconnection logic and <b>MongoDB</b> queries using indexing, eliminating race conditions and reducing response time by 30% under peak load.",
     ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:ugcPost:6904281486057373696/",
-    liveDemo: "https://jayesh2906.github.io/laptop-design/",
-    sourceCode: "https://github.com/jayesh2906/laptop-design",
+    videoDemo: "https://github.com/gaaurav03/Snappy",
+    liveDemo: "https://snappy-chat.netlify.app", // Update with actual URL
+    sourceCode: "https://github.com/gaaurav03/Snappy",
   },
   {
-    title: "House Design with CSS",
-    image: "/assets/housedesign.png",
+    title: "Singitronic - Electronics eCommerce Platform",
+    image: "/assets/singitronic-preview.png",
     description: [
-      "Designed and developed front-view of my house with pure <b>CSS 3</b>, <b>Html 5</b> and <b>JavaScript</b>.",
-      "User can open and close Gate, Windows and Slide of a House, User can also rotate a house in 360°.",
+      "Engineered a full-stack electronics eCommerce platform using <b>Next.js (React)</b> and <b>Node.js</b>, delivering a custom-designed, mobile-responsive interface with support for 100+ product SKUs.",
+      "Implemented core eCommerce functionality including product catalog, shopping cart, secure user authentication, and order processing using a <b>MySQL</b> backend, achieving 0.5s average API response.",
+      "Built a comprehensive admin dashboard for real-time product management, order tracking, and business analytics, streamlining administrative workflows by 70%.",
+      "Optimized application performance through modular architecture and software engineering best practices, resulting in a scalable production-ready codebase.",
     ],
-    videoDemo:
-      "https://www.linkedin.com/posts/jayesh-choudhary-72444518b_css-animation-perspective3d-activity-6886298154199773184-C74d",
-    liveDemo: "https://jayesh2906.github.io/My-house.github.io/house.html",
-    sourceCode: "https://github.com/jayesh2906/My-house.github.io",
+    videoDemo: "https://github.com/gaaurav03/Singitronic",
+    liveDemo: "https://singitronic.vercel.app", // Update with actual URL
+    sourceCode: "https://github.com/gaaurav03/Singitronic",
   },
   {
-    title: "IPL-2022 Web Application",
-    image: "/assets/ipl2022.png",
+    title: "DSA Problem Solving - 300+ Problems",
+    image: "/assets/dsa-badge.png",
     description: [
-      "Designed and developed a web application that provides the live scorecard of IPL-2022 fetched from <b>RESTful Cricket API</b>.",
-      "User can create his/her playing 11 team for each franchise, User can also watch the best of IPL highlights.",
-      "Converted to PWA that can be installed and run on mobile as a native app.",
-      "Deployed it to Netlify.",
-      "Technologies used: <b>JavaScript</b>, <b>React JS</b>, <b>CSS 3</b>, <b>Material Ui</b>, <b>Local Storage</b>.",
+      "Solved 300+ Data Structures and Algorithms problems across <b>LeetCode</b> and <b>GeeksforGeeks</b> using <b>C++</b>.",
+      "Earned 50-Day and 100-Day Coding Streak Badges on LeetCode for consistent practice.",
+      "Strong proficiency in algorithms including sorting, searching, dynamic programming, graphs, trees, and greedy algorithms.",
+      "Applied problem-solving skills in competitive programming and real-world project optimization.",
     ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:activity:6913334580070498304/",
-    liveDemo: "https://ipl-2022.netlify.app/",
-    sourceCode: "https://github.com/jayesh2906/IPL-2022-App",
-  },
-  {
-    title: "Full E-Commerce Web Application",
-    image: "/assets/iconstore.png",
-    description: [
-      "Designed and developed a Full E-Commerce web application with MERN Stack that can be used by users, sellers, and Admin.",
-      "Uses json web token for security ( Authorization ), Uses Geo-location for auto-filling shipping address of user.",
-      "Uses Twilio message notification to registered mobile number on confirmation of orders.",
-      "Uses Paypal payment gateway integration for demo virtual payment of orders.",
-      "Technologies used: <b>JavaScript</b>, <b>React JS</b>, <b>Redux Thunk</b>, <b>Node Js</b>, <b>Express Js</b>, <b>Html</b>, <b>CSS</b>, <b>Bootstrap 5</b>, <b>MongoDB</b>.",
-    ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:activity:6842941644195672064/",
-    liveDemo: "",
-    sourceCode: "https://github.com/jayesh2906/Final-Ecommerce-Project",
-  },
-  {
-    title: "Ice Mart Mobile Application",
-    image: "/assets/icemart.png",
-    description: [
-      "Designed and developed an Ice Mart Mobile App with MERNN Stack that can be used by users, and Admin.",
-      "Uses json web token for security, Authorization.",
-      "Uses Google-maps for location of user.",
-      "Uses Google pay payment gateway integration for demo virtual payment of orders.",
-      "Technologies used: <b>JavaScript</b>, <b>React Native</b>, <b>Redux Toolkit</b>, <b>Node Js</b>, <b>Express Js</b>, <b>MongoDB</b>.",
-    ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:activity:6941967333682737152/",
-    liveDemo: "",
-    sourceCode: "https://github.com/jayesh2906/Ice-Mart",
-  },
-  {
-    title: "Real-time Online Chat Application",
-    image: "/assets/chatapp.png",
-    description: [
-      "Designed and developed a Real-time Online Chat Application with react and stream that can be used for online communication.",
-      "Server deployed to Heroku and Client deployed to Netlify.",
-      "Responsive and converted into PWA(Native app).",
-      "Technologies used: <b>JavaScript</b>, <b>React JS</b>, <b>Stream</b>, <b>Node Js</b>, <b>Express Js</b>, <b>Html</b>, <b>CSS</b>.",
-    ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:activity:6877141876273762304/",
-    liveDemo: "",
-    sourceCode: "https://github.com/jayesh2906/Lets-Chat-app",
-  },
-  {
-    title: "Movie Info Application",
-    image: "/assets/movieapp.png",
-    description: [
-      "Designed and developed a Movie info app with MERN Stack with third-party APIs for fetching movies record, Uses <b>OMDb RESTful</b> web service.",
-      "Technologies used: <b>JavaScript</b>, <b>React JS</b>, <b>Node Js</b>, <b>Express Js</b>, <b>Html</b>, <b>CSS</b>, <b>Bootstrap 5</b>, <b>MongoDB</b>.",
-    ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:activity:6842939354764201984/",
-    liveDemo: "",
-    sourceCode: "",
-  },
-  {
-    title: "All Projects Compilation",
-    image: "/assets/allProjects.png",
-    description: [
-      "Check here my all projects in one video compilation.",
-      "Technologies used: <b>JavaScript</b>, <b>React Js</b>, <b>Redux</b>, <b>React Native</b>, <b>Next Js</b>, <b>Html5</b>, <b>CSS3</b>, <b>Tailwind Css</b>, <b>Material Ui</b>, <b>Bootstrap5</b>, <b>Sass</b>, <b>Styled Components</b>, <b>Node Js</b>, <b>Express Js</b>, <b>Mongo Db</b>, <b>Postman</b> and <b>Jwt-Authorization</b>.",
-    ],
-    videoDemo:
-      "https://www.linkedin.com/feed/update/urn:li:activity:6962305778502254592/",
-    liveDemo: "",
-    sourceCode: "",
+    sourceCode: "https://leetcode.com/u/gaurav21687/",
   },
 ];
 
@@ -453,26 +388,26 @@ export const contactDetails = [
   {
     icon: MdCall,
     type: "Mobile",
-    value: "+91 8******727",
-    href: "",
+    value: "+91 6398496872",
+    href: "tel:+916398496872",
   },
   {
     icon: GrMail,
     type: "Email",
-    value: "jayesh.choudhary2906@gmail.com",
-    href: "mailto:jayesh.choudhary2906@gmail.com",
+    value: "gaurav21687@gmail.com",
+    href: "mailto:gaurav21687@gmail.com",
   },
   {
     icon: MdLocationOn,
     type: "Address",
-    value: "Burhanpur, Madhya Pradesh",
+    value: "Bhopal, Madhya Pradesh, India",
     href: "",
   },
   {
     icon: FaLinkedin,
-    type: "Linkedin",
-    value: "Contact through Linkedin",
-    href: "https://www.linkedin.com/in/jayesh-choudhary-72444518b/",
+    type: "LinkedIn",
+    value: "Connect on LinkedIn",
+    href: "https://www.linkedin.com/in/gaurav037/", // Update with actual URL
   },
 ];
 
@@ -483,7 +418,7 @@ export const contactData = {
   messageLabel: "Message *",
   sendButton: "Send Message",
   errorMessage:
-    "Your message could not be sent, Kindly contact directly over Email or Phone!",
+    "Your message could not be sent. Kindly contact directly via Email or Phone!",
   successMessage:
-    "Your message has been sent successfully, I will contact you soon!",
+    "Your message has been sent successfully! I will get back to you soon.",
 };

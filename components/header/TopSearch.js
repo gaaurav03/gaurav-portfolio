@@ -18,13 +18,13 @@ import { SearchContext } from "../../layout/Layout";
 
 const TopSearch = () => {
   const { darkMode, handleThemeMode } = useContext(ThemeContext);
-  const [search, setSearch] = useState("Jayesh Choudhary");
+  const [search, setSearch] = useState("Gaurav Gupta");
   const [showDetails, setShowDetails] = useState(false);
   const { searchValueChange, handleSearch } = useContext(SearchContext);
 
   useEffect(() => {
     if (searchValueChange) {
-      setSearch("Jayesh Choudhary");
+      setSearch("Gaurav Gupta");
     }
   }, [searchValueChange]);
 
@@ -100,7 +100,7 @@ const TopSearch = () => {
           onMouseOver={() => setShowDetails(true)}
           onMouseOut={() => setShowDetails(false)}
         >
-          J
+          G
           {showDetails && (
             <AccountDetails>
               <h5>{accountDetails.account}</h5>

@@ -18,8 +18,8 @@ const SideBar = () => {
     <AsideContainer>
       <ProfileContainer>
         <Image
-          src="/assets/Profile.png"
-          alt="Profile"
+          src="/assets/Profile.jpg"
+          alt="Gaurav Gupta"
           fill
           style={{ objectFit: "cover" }}
           priority
